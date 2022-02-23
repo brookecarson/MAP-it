@@ -1,5 +1,4 @@
 # MAP-it
-## Capstone Project
 
 ## Project Background
 
@@ -14,6 +13,9 @@
 [Design & UI Powerpoint](https://studentsloyola-my.sharepoint.com/:p:/r/personal/mjamil_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7BAEE8E2D3-0BE9-4253-BAEA-351CAD420D1E%7D&file=Design%20%26%20UI%20Presentation.pptx&action=edit&mobileredirect=true)
 
 [Iteration Planning Document](https://studentsloyola-my.sharepoint.com/:w:/r/personal/mjamil_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7B753FD2E2-F337-44C2-AEB5-18B410A7F8A3%7D&file=Iteration%20Planning.docx&action=default&mobileredirect=true)
+
+[User Stories Excel Sheet](https://studentsloyola-my.sharepoint.com/:x:/r/personal/mjamil_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7B9A62722E-6A07-4573-B80E-E5A3DCB5DCA6%7D&file=User%20Stories%20-%20MAP-it.xlsx&action=default&mobileredirect=true)
+
 
 ## Architecture
 
