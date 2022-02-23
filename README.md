@@ -5,7 +5,11 @@
 
 ## Project Definition
 
+[Project Definition Document](https://studentsloyola-my.sharepoint.com/:w:/r/personal/blcarson_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7BB7FF76D0-D55D-4800-8FF3-17472847629E%7D&file=Project%20Definition.docx&action=default&mobileredirect=true)
+
 [Project Definition Powerpoint](https://studentsloyola-my.sharepoint.com/:p:/r/personal/mjamil_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7B3F8B888F-7013-4A47-B6B2-6318E2D4C537%7D&file=Project%20Proposal%20Final.pptx&action=edit&mobileredirect=true)
+
+[Design & UI Document](https://studentsloyola-my.sharepoint.com/:w:/r/personal/mjamil_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7B55BD1FBB-811B-42AA-9D6A-77C03295E827%7D&file=Design%20%26%20UI.docx&action=default&mobileredirect=true)
 
 [Design & UI Powerpoint](https://studentsloyola-my.sharepoint.com/:p:/r/personal/mjamil_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7BAEE8E2D3-0BE9-4253-BAEA-351CAD420D1E%7D&file=Design%20%26%20UI%20Presentation.pptx&action=edit&mobileredirect=true)
 
