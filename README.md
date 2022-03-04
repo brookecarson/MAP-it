@@ -3,7 +3,7 @@
 ## Install Directions
 
 1. Download the zip folder "MAP-it-sp.zip" found in Production/Web Programming directories
-2. Unzip the folder and place folder into root of project structure
+2. Unzip the folder and place "MAP-it-sp" into root of project structure
 3. 
 
 ## Project Background
