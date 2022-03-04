@@ -2,7 +2,7 @@
 
 ## Install Directions
 
-
+1. Download the zip folder
 
 ## Project Background
 
