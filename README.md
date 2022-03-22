@@ -11,7 +11,7 @@
 
 &ensp;[Project Definition Document](https://studentsloyola-my.sharepoint.com/:w:/r/personal/blcarson_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7BB7FF76D0-D55D-4800-8FF3-17472847629E%7D&file=Project%20Definition.docx&action=default&mobileredirect=true)
 
-&ensp;[Project Definition Powerpoint](https://studentsloyola-my.sharepoint.com/:p:/r/personal/mjamil_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7B3F8B888F-7013-4A47-B6B2-6318E2D4C537%7D&file=Project%20Proposal%20Final.pptx&action=edit&mobileredirect=true)
+&nbsp;[Project Definition Powerpoint](https://studentsloyola-my.sharepoint.com/:p:/r/personal/mjamil_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7B3F8B888F-7013-4A47-B6B2-6318E2D4C537%7D&file=Project%20Proposal%20Final.pptx&action=edit&mobileredirect=true)
 
 &ensp;[Design & UI Document](https://studentsloyola-my.sharepoint.com/:w:/r/personal/mjamil_loyola_edu/_layouts/15/Doc.aspx?sourcedoc=%7B55BD1FBB-811B-42AA-9D6A-77C03295E827%7D&file=Design%20%26%20UI.docx&action=default&mobileredirect=true)
 
